@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[45,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="dexin"
+version="1.0.0"
+displayName="dexin"
+credits="Hey😃"
+displayURL="https://louiml.net"
+authors="Louiml"
+
+[[dependencies.dexin]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.4]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
